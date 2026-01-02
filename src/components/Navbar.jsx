@@ -13,7 +13,7 @@ const Navbar = () => {
     <img src={navlogo} alt="" />
 
 </div>
-<nav className="hidden md:flex gap-8 text-gray-600">
+<nav className="hidden md:flex gap-8 text-gray-500">
 <a href="#" className="hover:text-green-600">Home</a>
 <a href="#" className="hover:text-green-600">Service</a>
 <a href="#" className="hover:text-green-600">Feature</a>
