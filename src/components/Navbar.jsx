@@ -1,6 +1,6 @@
 import React from 'react'
 import navlogo from '../../public/Logo.png'
-import illustrationImage from '../../public/illustration.png'
+import illustrationImage from '../../public/Illustration.png'
 const Navbar = () => {
   return (
    <div className="min-h-screen bg-gray-50 font-sans">

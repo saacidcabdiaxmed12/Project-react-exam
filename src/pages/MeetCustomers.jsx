@@ -1,6 +1,6 @@
 import React from 'react'
 import ImageCustomer from '../../public/imageCustomers.png'
-import frame from '../../public/frame 10.png'
+import frame from '../../public/Frame 10.png'
 const MeetCustomers = () => {
   return (
     <section className="bg-gray-50 py-24">
